@@ -1,0 +1,9 @@
+Benefits of Using Semantic Tags:
+
+1. Improved Accessibility: Assistive technologies like screen readers can more easily navigate and understand the structure of the page.
+
+2. Better SEO: Search engines can better index and understand the content, improving search rankings.
+
+3. Enhanced Readability: Makes the code more readable and maintainable for developers by providing clear structure and meaning.
+
+4. Consistency: Provides a standard way to define and organize web content.

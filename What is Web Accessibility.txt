@@ -1,0 +1,54 @@
+What is Web Accessibility?
+
+Web accessibility refers to the practice of making websites and web applications usable by as many people as possible, including those with disabilities. This includes individuals with visual, auditory, physical, speech, cognitive, and neurological disabilities. The goal is to ensure that everyone, regardless of their abilities or disabilities, can perceive, understand, navigate, and interact with the web.
+
+Key Principles of Web Accessibility:
+
+1. Perceivable: Information and user interface components must be presentable to users in ways they can perceive.
+2. Operable: User interface components and navigation must be operable.
+3. Understandable: Information and the operation of the user interface must be understandable.
+4. Robust: Content must be robust enough to be interpreted reliably by a wide variety of user agents, including assistive technologies.
+
+Assistive Devices for Web Accessibility:
+
+1.Screen Readers:
+
+Examples: JAWS (Job Access With Speech), NVDA (NonVisual Desktop Access), VoiceOver (macOS), TalkBack (Android).
+
+Description: Software programs that read the text displayed on the screen aloud or output it to a braille display, making web content accessible to users with visual impairments.
+
+2.Braille Displays:
+
+Examples: Refreshable Braille Display.
+
+Description: Devices that translate on-screen text to braille, enabling blind users to read the content through tactile feedback.
+
+3.Screen Magnifiers:
+
+Examples: ZoomText, MAGic.
+
+Description: Software that enlarges the content on the screen, making it easier for users with low vision to see.
+
+4.Speech Recognition Software:
+
+Examples: Dragon NaturallySpeaking, Google Voice Access.
+
+Description: Software that allows users to control their computer and input text using voice commands, beneficial for users with physical disabilities.
+
+5.Alternative Input Devices:
+
+Examples: Adaptive keyboards, eye-tracking systems, switch devices.
+
+Description: Devices that provide alternative methods for users to interact with their computer, useful for users with mobility impairments.
+
+6.Text-to-Speech (TTS) Tools:
+
+Examples: Read&Write, Kurzweil 3000.
+
+Description: Software that converts written text into spoken words, helping users with reading disabilities or learning disabilities.
+
+7.Closed Captioning and Transcripts:
+
+Examples: YouTube captions, transcription services.
+
+Description: Text versions of spoken words in videos and audio files, assisting users with hearing impairments.

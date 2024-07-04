@@ -1,0 +1,21 @@
+List any 5 semantic tags in HTML along with their description
+
+1. <header>
+
+Description: Represents the introductory content or a set of navigational links for a section or page. It typically contains headings, logos, and navigation menus.
+
+2. <article>
+
+Description: Represents a self-contained piece of content that can be independently distributed or reused. Suitable for blog posts, news articles, forum posts, or other similar content.
+
+3. <section>
+
+Description: Defines a thematic grouping of content, typically with a heading. It's used to group related content together, such as a chapter in a book or a section in a document.
+
+4. <nav>
+
+Description: Defines a section of a page that links to other pages or to parts within the page. It's intended for navigation links.
+
+5. <footer>
+
+Description: Represents the footer of a section or document. Typically contains information about the author, copyright information, links to related documents, and other metadata.

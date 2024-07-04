@@ -1,0 +1,7 @@
+Tabindex: Enhancing Keyboard Navigation
+
+Tabindex is an HTML attribute used to manage the tab order of elements, enhancing the navigation experience for users who rely on keyboards. The attribute allows you to specify the sequence in which elements receive focus when the user presses the Tab key. This is crucial for accessibility, particularly for users with disabilities who navigate websites without a mouse.
+
+1.Links in the navigation are assigned positive tabindex values to ensure a specific tab order.
+2.The submit button has tabindex="0", maintaining its place in the natural tab order.
+3.The hidden button has tabindex="-1", making it focusable programmatically but not via keyboard navigation.

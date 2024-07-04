@@ -1,0 +1,22 @@
+List out the features of HTML 5:
+
+New Elements and Attributes
+ 1. Semantic Elements: <header>, <footer>, <article>, <section>, <nav>, <aside>, <main>, and <figure> which help in structuring the content meaningfully.
+ 2. Multimedia Elements: <audio>, <video>, and <source> to embed audio and video files.
+ 3. Graphics Elements: <canvas> and <svg> for drawing graphics and scalable vector graphics.
+
+Form Enhancements
+ 1. New Form Input Types: email, url, number, date, time, range, color, etc.
+ 2. New Form Attributes: required, placeholder, autofocus, autocomplete, pattern, novalidate,   etc.
+
+Performance and Integration
+ 1. Integrated SVG: Scalable Vector Graphics can be used directly in HTML documents.
+ 2. MathML: For displaying mathematical notations.
+ 3.Improved Parsing Rules: Better error handling and consistent parsing rules across browsers.
+
+Deprecated Elements and Attributes
+ 1.Removed Elements: Tags like <font>, <center>, <big>, <blink>, and attributes like align, bgcolor, etc., are deprecated in favor of CSS.
+
+Browser Compatibility and Standards
+ 1. Consistent Syntax: Improved cross-browser compatibility and standardization of HTML syntax.
+ 2. Enhanced Error Handling: Better error-handling mechanisms for incorrect HTML.
